@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046270996005",
+    "firebase_url": "https://fir-practica-2020.firebaseio.com",
+    "project_id": "fir-practica-2020",
+    "storage_bucket": "fir-practica-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046270996005:android:5e17d30d99d6c87cc919cc",
+        "android_client_info": {
+          "package_name": "diego.diedavq.firebasepractica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046270996005-tui0f3299apfi1p9a4rnvimh7h87lrsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysxshzuBsbOjS-rg_4ySvo_SZZ5Blgnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046270996005-tui0f3299apfi1p9a4rnvimh7h87lrsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
